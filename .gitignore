@@ -1,0 +1,44 @@
+# Node.js specific files
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Editor files
+.DS_Store
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.nvs*
+.sass-cache/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs and Build Files
+logs/
+*.log
+*.pid
+*.tmp
+
+# Test files
+coverage/
+.nyc_output/
+
+# IDE specific files
+.project
+.classpath
+*.launch
+*.settings
+*.metadata
+.metadata.*
+
+# Distribution files
+dist/
+build/
+public/
+
+# Local env files
+# .env
+# .env.local
